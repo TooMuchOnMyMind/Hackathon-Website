@@ -131,7 +131,7 @@ section {
 .arrow-container {
   position: fixed; /* Fixed position at the top */
   top: 0; /* Align to the top */
-  left: 46%; /* Center horizontally */
+  left: 50%; /* Center horizontally */
   transform: translateX(-50%); /* Truly center it */
   display: flex; /* Flexbox for alignment */
   flex-direction: column; /* Stack square and arrow */
